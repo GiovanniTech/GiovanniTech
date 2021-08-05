@@ -6,7 +6,7 @@ Pelased to meet you !!
 
 <div>
   <a href="https://beacons.ai/GiovanniTech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniTech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTech&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
