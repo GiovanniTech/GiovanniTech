@@ -1,4 +1,4 @@
-## Olá! Eu sou o Giovani 👋 
+## Olá! Eu sou o Giovanni 👋 
 Pelased to meet you !!
 
 - 🔭 Hoje trabalho com Tecnologia da Informação
