@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Giovanni 👋 
 Pelased to meet you !!
 
-- 🔭 Hoje trabalho com Tecnologia da Informação
+- 🔭 Atuando com Tecnologia da Informação
 - 🌱 Estudando Java
 
 <div>
