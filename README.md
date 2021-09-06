@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Giovanni 👋 
 Pelased to meet you !!
 
-- 🔭 Atuando com Tecnologia da Informação
-- 🌱 Estudando Java
+- 🔭 Atuando com Tecnologia da Informação e estudando para migrar ao Dev.
+- 🌱 Estudando Front-End
+- 🎓 Universidade Cruzeiro do Sul - Paulista
 
 <div>
   <a href="https://beacons.ai/GiovanniTech">
