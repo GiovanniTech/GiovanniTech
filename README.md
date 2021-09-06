@@ -18,7 +18,7 @@ Pelased to meet you !!
   <img align="center" alt="Giovanni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Giovanni-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Giovanni-DOT-NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="right"  height="150" alt="Giovanni-GIF" src="https://media.giphy.com/media/p6H54J5tdyojC/giphy.gif">
+  <img align="right"  height="150" alt="Giovanni-GIF" src="https://media2.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif?cid=ecf05e47oduv9ll68h5pzg8huuf6t7v2c3y31itfr74mto5a&rid=giphy.gif&ct=g">
 
   </div>
  
