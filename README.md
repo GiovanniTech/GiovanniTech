@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Giovanni 👋 
 Pelased to meet you !!
 
-- 🔭 Atuando com Tecnologia da Informação e estudando para migrar ao Dev.
+- 🔭 Atuando com redes de computadores (Ainda não estou na área de programador)
 - 🌱 Estudando Front-End
 - 🎓 Universidade Cruzeiro do Sul - Paulista
 
