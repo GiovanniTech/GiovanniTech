@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Giovanni 👋 
 Pelased to meet you !!
 
-- 🔭 Atuando com redes de computadores (Ainda não estou na área de programador)
-- 🌱 Estudando Front-End
+- 🔭 Atuo como Analista de Sistemas e Suporte a usuários a 5 anos e estou procurando uma vaga para Analista de Dados/Testes
+- 🌱 Estudando Back-end
 - 🎓 Universidade Cruzeiro do Sul - Paulista
 
 <div>
