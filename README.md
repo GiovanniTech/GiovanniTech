@@ -1,7 +1,7 @@
 ## Hi dear, I'm Giovanni 👋 
 Pelased to meet you !!
 
-- 🔭 Atuo como Analista de Sistemas e Suporte a usuários a 5 anos e estou procurando uma vaga para Analista de Dados/Testes
+- 🔭 Atuo como Analista de Sistemas e Suporte a usuários a 5 anos e estou procurando uma vaga para migrar a Analista de Dados/Testes
 - 🌱 Estudando Back-end
 - 🎓 Universidade Cruzeiro do Sul - Paulista
 
