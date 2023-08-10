@@ -1,4 +1,4 @@
-## Olá! Eu sou o Giovanni 👋 
+## Hi dear, I'm Giovanni 👋 
 Pelased to meet you !!
 
 - 🔭 Atuo como Analista de Sistemas e Suporte a usuários a 5 anos e estou procurando uma vaga para Analista de Dados/Testes
